@@ -1,5 +1,9 @@
 <p1>敬偉大的守護神魯匹卡斯</p1>
 --------------------------------
+Note
+OS:Win 8
+IDE:CodeBlocks(13.12)
+Build Options>link lib> winmm dsound
 控制項
 --------------------------------
 Player1:                    
